@@ -6,14 +6,16 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/MustafaGeo
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/mosgeo
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/MosGeo
 
 ---
 
-About this blog
+This blog will host ideas and experiments that I play around with from time to time. Topics will range but it is generally covers science (geoscience in particular), computer programming, and possibly video games. There is no specific order to the posts. It is just what I was playing around at a particular time.
+
+If you would like to connect it. Please feel to reach me at Linkedin.
